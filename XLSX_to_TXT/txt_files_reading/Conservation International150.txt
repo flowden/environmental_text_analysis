@@ -1,0 +1,1 @@
+ a cloud-based, open-source platform, wildlife insights is developing machine learning algorithms to automatically identify and tag species at a rate far faster than any human. analysis that used to take months now takes days.
