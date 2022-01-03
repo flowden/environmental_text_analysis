@@ -10,7 +10,7 @@ from a corporate philanthropy database in a series of fixed effects regressions 
 how corporate giving can affect environmental nonprofit discourse.
 
 # Individual file description
-1. Dictionary methods
+## 1. Dictionary methods
   I apply my novel dictionaries to my corpus of annual reports. I use Anaconda and Jupyter Notebook
 for this project along with the Pandas and Natural Language Toolkit (NLTK) modules. First, I import
 my text data from google sheets. Second, I clean my text data by removing stop words and punctuation.
@@ -25,16 +25,16 @@ in each document of their corpus. These word counts are recorded and then conver
 that can be used in later analysis or displayed in charts, graphs, and tables to communicate a
 researcher’s findings. 
 
-2. MA_CT_opposition_testimony
+## 2. MA_CT_opposition_testimony
   I conduct a robustness check on my created dictionaries by running them on texts where I expect
 delay rhetoric to be prominent. I follow the same process as outlined above by applying my dictionaries to
 this separate corpus of statehouse testimony in Massachusetts and Connecticut.
   
-3. Word_frequency
+## 3. Word_frequency
   I find the most frequently used words in the statehouse testimony in Massachusetts and Connecticut. I used this
 data to ensure there were no commonly-used words in this data that should have been included in my dictionaries.
   
-4. XLSX_to_TXT
+## 4. XLSX_to_TXT
   This code converts rows of my text database into individual txt files that are needed to conduct topic modeling
 on my corpus using Mallet. I could have stored all of my collected texts in individual text files; however, storing
 them in a spreadsheet allowed me to collect additional metadata (e.g., group name, year, type of text, source, etc.)
