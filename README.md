@@ -1,2 +1,1 @@
-# oil_text_analysis
-PLCY honors thesis
+# Text analysis for Public Policy Honors Thesis
