@@ -9,7 +9,7 @@ in my text database on an annual basis. I then used this novel text data with da
 from a corporate philanthropy database in a series of fixed effects regressions to explore
 how corporate giving can affect environmental nonprofit discourse.
 
-# Individual file description
+# Individual files description
 ## 1. Dictionary methods
 I apply my novel dictionaries to my corpus of annual reports. I use Anaconda and Jupyter Notebook
 for this project along with the Pandas and Natural Language Toolkit (NLTK) modules. First, I import
